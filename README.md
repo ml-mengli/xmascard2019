@@ -1,2 +1,4 @@
-# xmascard2019
-The code for the Babraham Bioinformatics 2019 christmas card
+# Babraham Bioinformatics Xmas Card 2019
+
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/s-andrews/xmascard2019/master/xmas.png "Babraham Bioinformatics Xmas Card")
