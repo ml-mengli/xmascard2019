@@ -34,4 +34,4 @@ data %>%
   xlab("www.bioinformatics.babraham.ac.uk") +
   ylab("")
 
-ggsave("c:/Users/andrewss/Desktop/xmas.svg",device = "svg", width = 4, height = 5)
+#ggsave("c:/Users/andrewss/Desktop/xmas.svg",device = "svg", width = 4, height = 5)
